@@ -8,9 +8,9 @@ The data for this project is sourced from Kaggle, containing daily records of ca
  Trend analysis across time and regions
  Visualizations of COVID-19 statistics
 
+ Technologies Used: 
+  •	Python, Pandas, Matplotlib, Seaborn, numpy
+
 # Clone the repository:
 ```bash
 git clone https://github.com/Akash113189/Covid-Data-Analysis.git
-
-Technologies Used: 
-  •	Python, Pandas, Matplotlib, Seaborn, numpy
